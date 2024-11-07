@@ -21,5 +21,12 @@ The landing screen features:
   - **Scalar Converter**: Simple string response parsing.
 - **Glide**: Image loading and caching.
 
+## Screenshots
+
+<p float="left">
+  <img src="ss1.jpeg" alt="Screenshot 1" width="25%" style="margin-right: 10" />
+  <img src="ss2.jpeg" alt="Screenshot 2" width="25%" />
+</p>
+
 
 
